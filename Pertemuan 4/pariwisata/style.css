@@ -62,7 +62,7 @@ label {
 }
 
 .menu ul li:hover .dropdown li {
-  display: inline-block;
+  display: block;
 }
 
 .menu ul li:hover .dropdown li a {
